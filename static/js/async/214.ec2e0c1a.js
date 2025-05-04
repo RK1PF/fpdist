@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpointeur=self.webpackChunkpointeur||[]).push([["214"],{2643:function(e,n,u){u.r(n),u.d(n,{component:()=>t});var i=u(5893);let t=()=>(0,i.jsx)("div",{children:'Hello "/mui"!'})}}]);

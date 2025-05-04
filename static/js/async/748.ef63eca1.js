@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpointeur=self.webpackChunkpointeur||[]).push([["748"],{4821:function(e,n,u){u.r(n),u.d(n,{component:()=>r});var t=u(5893);let r=function(){return(0,t.jsx)("div",{children:'Hello "/gestion/chauffeurs"!'})}}}]);
